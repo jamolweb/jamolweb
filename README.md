@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Jamoladdin | Full-Stack Developer | Backend Specialist</h1>  
+<h3 align="center">Building scalable, high-performance applications with NestJS, PostgreSQL, and modern DevOps tools</h3>  
 
-<!--
-**jamolweb/jamolweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🔹 About Me  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Full-Stack Developer** with a strong focus on **backend development, database design, and cloud deployments**.  
+Experienced in **building, optimizing, and deploying scalable applications** using modern technologies. Passionate about **system architecture, API design, and performance tuning**.  
+
+💡 **Key Strengths:**  
+- **Backend Development** – Proficient in **NestJS, Express.js, Node.js, and TypeScript**  
+- **Database Optimization** – Skilled in **PostgreSQL, Prisma, and MongoDB**  
+- **DevOps & Scalability** – Hands-on experience with **Docker, Kubernetes, and CI/CD pipelines**  
+- **Authentication & APIs** – Expertise in **JWT, OAuth, Google Auth, REST, and GraphQL**  
+- **Problem-Solving Mindset** – Strong understanding of **algorithms, system design, and clean code principles**  
+
+---
+
+## 📌 Work Experience  
+
+### 🚀 **Darrow – Delivery Startup** (2024 - Present)  
+**Backend Developer | Migrating from PHP to NestJS**  
+- Rebuilding **Darrow's backend** from scratch using **NestJS, PostgreSQL, and Prisma**  
+- Implementing **secure authentication and authorization** with JWT and Google OAuth  
+- Enhancing **database performance and query optimization** for high traffic loads  
+- Setting up **Docker and CI/CD pipelines** for automated deployment  
+
+### 📚 **EduVerse – Education Platform** (2024 - Present)  
+**Full-Stack Developer | CRM for Learning Centers**  
+- Designed and built a **scalable learning center management system**  
+- Developed an **interactive dashboard** using **React, Next.js, and TailwindCSS**  
+- Integrated **role-based access control (RBAC) and API security**  
+- Improved **data retrieval speeds** by optimizing **PostgreSQL queries**  
+
+### 🔗 **Short.us – URL Shortener** (2024 - Present)  
+**Backend Developer | High-Performance URL Shortening Service**  
+- Built a **fast and reliable URL shortener** using **NestJS and Redis**  
+- Designed **an analytics dashboard** for tracking shortened links  
+- Deployed **on AWS** with **Dockerized microservices**  
+
+---
+
+## 🛠 Tech Stack  
+
+- **Languages & Frameworks:** JavaScript, TypeScript, NestJS, Express.js, React.js, Next.js  
+- **Databases:** PostgreSQL, Prisma, MongoDB, Redis  
+- **DevOps & Cloud:** Docker, Kubernetes, AWS, GitHub Actions, CI/CD  
+- **APIs & Authentication:** REST, GraphQL, JWT, OAuth, Google Auth  
+- **Tools:** Git, WebSockets, RabbitMQ, Microservices  
+
+---
+
+## 🎯 My Goals  
+
+✔ Advance to **Middle Backend Developer**  
+✔ Deepen expertise in **system design & distributed systems**  
+✔ Develop **open-source tools & backend libraries**  
+✔ Grow my **personal brand** by sharing content & insights  
+✔ Participate in **large-scale projects & startup ecosystems**  
+
+---
+
+## 📬 Get in Touch  
+
+📧 **Email:** [jamoladdinisnatdinov2@gmail.com](mailto:jamoladdinisnatdinov2@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/jamoladdin-isnatdinov-378116285) | [Telegram](https://t.me/jamoldev) | [Portfolio](https://jamoldev.uz/)  
+
+🚀 *Let's connect and build something impactful!*  
