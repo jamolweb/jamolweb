@@ -19,7 +19,7 @@ Experienced in **building, optimizing, and deploying scalable applications** usi
 
 ## 📌 Work Experience  
 
-### 🚀 **Darrow – Delivery Startup** (2024 - Present)  
+### 🚀 **Darrov – Delivery Startup** (2024 - Present)  
 **Backend Developer | Migrating from PHP to NestJS**  
 - Rebuilding **Darrow's backend** from scratch using **NestJS, PostgreSQL, and Prisma**  
 - Implementing **secure authentication and authorization** with JWT and Google OAuth  
