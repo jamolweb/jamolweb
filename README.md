@@ -33,21 +33,21 @@ Experienced in **building, optimizing, and deploying scalable applications** usi
 - Integrated **role-based access control (RBAC) and API security**  
 - Improved **data retrieval speeds** by optimizing **PostgreSQL queries**  
 
-### 🔗 **Short.us – URL Shortener** (2024 - Present)  
-**Backend Developer | High-Performance URL Shortening Service**  
-- Built a **fast and reliable URL shortener** using **NestJS and Redis**  
-- Designed **an analytics dashboard** for tracking shortened links  
-- Deployed **on AWS** with **Dockerized microservices**  
+### 🔗 **Freelancing – URL Shortener** (2024 - Present)  
+**Full-Stack Developer**  
+- Built a **fast and reliable full-stack systems** using **NestJS and NextJS**  
+- Designed **analytics dashboard, CRUDS, live time applications handling more then +1k users a day** for tracking user informations safely. 
+- Deployed **on VPS servers** with **Docker containers**  
 
 ---
 
 ## 🛠 Tech Stack  
 
-- **Languages & Frameworks:** JavaScript, TypeScript, NestJS, Express.js, React.js, Next.js  
+- **Languages & Frameworks:** JavaScript, TypeScript, NestJS, Express.js, React.js, Next.js
 - **Databases:** PostgreSQL, Prisma, MongoDB, Redis  
 - **DevOps & Cloud:** Docker, Kubernetes, AWS, GitHub Actions, CI/CD  
 - **APIs & Authentication:** REST, GraphQL, JWT, OAuth, Google Auth  
-- **Tools:** Git, WebSockets, RabbitMQ, Microservices  
+- **Tools:** Git, WebSockets, Microservices  
 
 ---
 
