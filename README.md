@@ -49,6 +49,7 @@ I take pride in clean architecture, performance optimization, and infrastructure
 - Collaborated on database structure, performance tuning, and authentication logic  
 - Designed with business operators in mind to **manage delivery workflows in real-time**
 
+More projects on this [link](https://www.jamoldev.uz/projects)
 ---
 
 ## 💡 Highlights
