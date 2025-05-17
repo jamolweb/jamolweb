@@ -53,7 +53,6 @@ I take pride in clean architecture, performance optimization, and infrastructure
 
 ## 💡 Highlights
 
-- 🔄 Migrated legacy systems (Laravel → NestJS) for real startups
 - 🚀 Deployed high-traffic systems on VPS with Docker, CI/CD, and Nginx
 - 🔐 Built secure auth flows using JWT, Google OAuth, and RBAC
 - 🧠 Strong in problem-solving, database performance tuning & clean code
