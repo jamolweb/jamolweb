@@ -24,23 +24,30 @@ I take pride in clean architecture, performance optimization, and infrastructure
 
 ## 🚀 Featured Projects
 
-### 🔗 [ShortURL.uz](https://shorturl.uz)
+### 🔗 [ShortURL.uz](https://shorturl.uz)  
 **Full-Stack URL Shortener** handling 1k+ users/day  
-- Built with Next.js, MongoDB, Prisma
+- Built with Next.js, MongoDB, Prisma  
 - Features secure analytics, short link generation, and live redirects  
 - Example: [shorturl.uz/short-code/QQKNIQpo1h](https://shorturl.uz/short-code/QQKNIQpo1h)
 
-### 📚 [AvtoMentor.uz](https://avtomentor.uz)
+### 📚 [AvtoMentor.uz](https://avtomentor.uz)  
 **Learning Platform with Role-Based Access**  
 - Built from scratch, now ranks #1 for "AvtoMentor" on search engines  
 - 3 roles (Student, Teacher, Admin), test module, and PostgreSQL analytics  
 - Over **50,000+ site visits**
 
-### 🌐 [Brandlly.ai](https://brandlly.ai)
+### 🌐 [Brandlly.ai](https://brandlly.ai)  
 **AI SaaS Platform for Branding**  
 - Automates logo, brandbook, and website creation using advanced AI (Gemini, DeepSeek)  
 - Full-stack architecture, deployed on VPS, with custom domain & subdomain handling  
 - Supports PDF/PNG exports, image generation, and template-driven UI builder
+
+### 🚚 Darrov – Delivery Platform (Internal Panel)  
+**Admin CRM for Managing Couriers, Partners & Orders**  
+- Built a full-featuredo **admin panel** with dashbards for **partners, users, couriers, statistics, and system settings**  
+- Supported **Laravel**, contributing to backend enhancements and credential security  
+- Collaborated on database structure, performance tuning, and authentication logic  
+- Designed with business operators in mind to **manage delivery workflows in real-time**
 
 ---
 
