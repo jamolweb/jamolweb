@@ -34,7 +34,7 @@ I take pride in clean architecture, performance optimization, and infrastructure
 **Learning Platform with Role-Based Access**  
 - Built from scratch, now ranks #1 for "AvtoMentor" on search engines  
 - 3 roles (Student, Teacher, Admin), test module, and PostgreSQL analytics  
-- Over **50,000+ site visits**
+- Over **100,000+ site visits**
 
 ### 🌐 [Brandlly.ai](https://brandlly.ai)  
 **AI SaaS Platform for Branding**  
