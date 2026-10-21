@@ -1,81 +1,87 @@
-<h1 align="center">Jamoladdin Isnatdinov | Backend Engineer</h1>
-<h3 align="center">Crafting scalable, production-ready systems with NestJS, PostgreSQL & modern DevOps</h3>
+<h1 align="center">Jamoladdin Isnatdinov</h1>
+<h3 align="center">Backend Engineer · NestJS · PostgreSQL · AI</h3>
+
+<p align="center">
+  <a href="https://jamoldev.uz">jamoldev.uz</a> ·
+  <a href="mailto:jamoladdinisnatdinov2@gmail.com">Email</a> ·
+  <a href="https://t.me/jamoldev">Telegram</a>
+</p>
+
+<p align="center"><b>🟢 Open to new roles: remote or relocation</b></p>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About me
 
-I'm a **backend engineer** who thrives on solving complex problems, building scalable APIs, and deploying real-world systems that just work.  
-I specialize in **NestJS, PostgreSQL, Docker**, and **CI/CD pipelines**, with hands-on experience in building production-grade applications serving thousands of users.
+I'm a backend engineer from Uzbekistan with 2+ years of experience building SaaS platforms, payment systems and AI-powered applications, and running them in production.
 
-I take pride in clean architecture, performance optimization, and infrastructure automation — from designing robust REST APIs to deploying on VPS with Docker & Nginx.
-
----
-
-## ⚒️ Tech Stack
-
-- **Languages & Frameworks:** Node.js, TypeScript, NestJS, Express.js
-- **Databases:** PostgreSQL, Prisma, MongoDB, Redis
-- **DevOps & Infra:** Docker, Nginx, GitHub Actions, Linux, CI/CD
-- **Frontend (supportive):** React, Next.js, TailwindCSS
-- **Tools & Concepts:** REST APIs, JWT, OAuth, GraphQL, WebSockets, System Design
+I build multi-tenant software with **Node.js, NestJS, Scala, PostgreSQL and Redis**, plus modern LLM tools such as **RAG and AI agents**. I care about scalable architecture, performance, CI/CD automation and shipping software that is ready for real users.
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Experience
 
-### 🔗 [ShortURL.uz](https://shorturl.uz)  
-**Full-Stack URL Shortener** handling 1k+ users/day  
-- Built with Next.js, MongoDB, Prisma  
-- Features secure analytics, short link generation, and live redirects  
-- Example: [shorturl.uz/short-code/QQKNIQpo1h](https://shorturl.uz/short-code/QQKNIQpo1h)
+### Full Stack Engineer · [Durbin](https://durbincrm.uz) · *Jun 2026 – present*
+Multi-tenant school management SaaS
+- Moved the live backend from Scala to NestJS with zero downtime. About 98% of the app now runs on the new backend, and schools never noticed the switch.
+- Built an AI assistant and document platform: it answers from uploaded PDF and Word files with sources, works in Telegram with voice and images, and keeps every school's data strictly separate.
+- Built an analytics system with 350 metrics and early warnings for struggling students, and made the slowest report 25× faster.
+- Ran a full security review and fixed every serious issue, including one that could have allowed a platform takeover.
+- Set up zero-downtime releases (live in 2–3 minutes, one-command rollback) and SIP telephony with call recording and AI transcription.
 
-### 📚 [AvtoMentor.uz](https://avtomentor.uz)  
-**Learning Platform with Role-Based Access**  
-- Built from scratch, now ranks #1 for "AvtoMentor" on search engines  
-- 3 roles (Student, Teacher, Admin), test module, and PostgreSQL analytics  
-- Over **100,000+ site visits**
+### Backend Developer (part-time) · [E-Bilim](https://e-bilim.uz/en) · *Sep 2025 – Jan 2026*
+Online exam-prep and testing platform for students and schools
+- Built online card payments on my own with the Atmos payment provider: saving cards with SMS confirmation, payments, cancellations and refunds.
+- Built automatic subscription renewal with retries and a grace period for failed payments.
+- Secured payments: only the provider can reach the payment endpoints, and cards and passwords are stored encrypted.
+- Made the public test catalogue faster with Redis caching and PostgreSQL indexes.
 
-### 🌐 [Brandlly.ai](https://brandlly.ai)  
-**AI SaaS Platform for Branding**  
-- Automates logo, brandbook, and website creation using advanced AI (Gemini, DeepSeek)  
-- Full-stack architecture, deployed on VPS, with custom domain & subdomain handling  
-- Supports PDF/PNG exports, image generation, and template-driven UI builder
-
-### 🚚 Darrov – Delivery Platform (Internal Panel)  
-**Admin CRM for Managing Couriers, Partners & Orders**  
-- Built a full-featuredo **admin panel** with dashbards for **partners, users, couriers, statistics, and system settings**  
-- Supported **Laravel**, contributing to backend enhancements and credential security  
-- Collaborated on database structure, performance tuning, and authentication logic  
-- Designed with business operators in mind to **manage delivery workflows in real-time**
-
-More projects on this [link](https://www.jamoldev.uz/projects)
----
-
-## 💡 Highlights
-
-- 🚀 Deployed high-traffic systems on VPS with Docker, CI/CD, and Nginx
-- 🔐 Built secure auth flows using JWT, Google OAuth, and RBAC
-- 🧠 Strong in problem-solving, database performance tuning & clean code
-- ✍️ Writing clean, maintainable backend systems that scale
+### Sole Developer · [AvtoMentor](https://avtomentor.uz) · *Sep 2024 – present*
+Exam-prep platform for driving schools
+- Designed and built the whole product alone: student, teacher and admin portals plus a mobile app. Live since 2024.
+- Built the exam simulator (1,300+ questions, timed tests, a "my mistakes" mode) and student readiness reports.
+- Built the school's back office: groups, payments and debts, salaries, statistics and a lead pipeline.
+- Set up zero-downtime releases with automatic rollback, a staging environment and nightly backups.
 
 ---
 
-## 🎯 My 2025 Goals
+## 🚀 Projects
 
-- 📌 Reach **Middle Backend Developer** level
-- 🧱 Master **System Design, Distributed Systems, Load Balancing**
-- 🧰 Build & publish **open-source backend tools**
-- 🧑‍💻 Grow my **personal brand** through content, blog posts, and GitHub
-- 🤝 Collaborate on impactful real-world products and engineering teams
+- **HealthOS:** a health platform (NestJS, Next.js, React Native) with live sensor readings, early warnings and an Android app that works offline.
+- **[Brandlly](https://ai-branding-frontend.vercel.app):** an AI branding tool for startups (Next.js, NestJS). Code: [frontend](https://github.com/jamolweb/AI-branding-frontend) · [backend](https://github.com/jamolweb/ai-branding-backend)
+- **[jarvis](https://github.com/jamolweb/jarvis-v1):** clap twice or say a wake phrase and your laptop runs a command. Private, with no cloud (Python).
 
----
-
-## 📬 Let's Connect
-
-📧 [jamoladdinisnatdinov2@gmail.com](mailto:jamoladdinisnatdinov2@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/jamoladdin-isnatdinov-378116285) | [Telegram](https://t.me/jamoldev) | [Portfolio](https://jamoldev.uz)
+More on my portfolio: **[jamoldev.uz/projects](https://jamoldev.uz/projects)**
 
 ---
 
-🛠 *Let’s build scalable systems that matter.*
+## 🏆 Highlights
+
+- Migrated ~98% of a live production backend from Scala to NestJS with zero downtime
+- Built production card payments and automatic subscription billing end to end
+- Built an entire production platform alone, from an empty project to a live service
+- Made the slowest analytics report 25× faster and cut release time to 2–3 minutes with one-command rollback
+
+---
+
+## ⚒️ Tech stack
+
+| | |
+|---|---|
+| **Languages** | TypeScript · JavaScript · Python · SQL |
+| **Backend** | Node.js · NestJS · Scala (http4s) · REST APIs · WebSockets |
+| **Frontend & mobile** | Next.js · React · React Native / Expo · Tailwind CSS |
+| **Data** | PostgreSQL · Prisma · TypeORM · Redis · SQLite |
+| **AI** | LLM agents · RAG · Tool calling · Prompt caching |
+| **Infrastructure** | Docker · Nginx · GitHub Actions · Linux · CI/CD · Zero-downtime deployments |
+| **Integrations** | Payments (Atmos) · Telegram bots · SIP telephony |
+
+**Languages I speak:** English (C1) · Uzbek (native) · Russian (B1–B2)
+
+---
+
+## 📬 Let's work together
+
+Hiring a backend engineer? I'm open to full-time roles, remote or with relocation.
+
+📧 [jamoladdinisnatdinov2@gmail.com](mailto:jamoladdinisnatdinov2@gmail.com) · 💬 [t.me/jamoldev](https://t.me/jamoldev) · 🌐 [jamoldev.uz](https://jamoldev.uz)
